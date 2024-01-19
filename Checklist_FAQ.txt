@@ -1,0 +1,35 @@
+Descrição 	Google Chrome 400x554	Relatório de BUGS
+Página Jogo Estatística		
+Header		
+Texto "Qual é seu forte? Estatística ou sorte? é exibido no cabeçalho	PASSED	
+Logo ProbaSorte é exibido no cabeçalho acompanhado de ícone	PASSED	
+Botão "Entrar" é exibido no cabeçalho	PASSED	
+Botão "Entrar" é exibido na cor azul com fonte branca	PASSED	
+Ao clicar no botão "Entrar", usuário e encaminhado para página de cadastro	PASSED	
+
+
+Body		
+Título "Perguntas Frequentes - ProbaSorte" é exibido	PASSED	
+FAQ "O Que é o Probasorte?"	PASSED	
+FAQ " Como o ProbaSorte funciona?"	PASSED	
+FAQ "O ProbaSorte garante ganhos na loteria?"	PASSED	
+FAQ "O ProbaSorte é gratuito?"	PASSED	
+FAQ "As sequeências do ProbaSorte são baseadas em que?"	PASSED	
+FAQ "Quantas sequencias o ProbaSorte pode gerar?"	PASSED	
+FAQ "É seguro inserir meus números pessoais no ProbaSorte"	PASSED	
+FAQ "O ProbaSorte funciona para outras loterias além da Mega-Sena?"	PASSED	
+FAQ "Como posso entrar em contato em caso de problemas ou dúvidas ?"	PASSED	
+
+
+Footer		
+Texto em branco "Uma sequência gratuita por dia, cadastre-se agora." é exibido com um fundo azul 	PASSED	
+Botão "Quero minha sorte" é exibido na cor branca com texto em azul	PASSED	
+Ao clicar em "Quero minha sorte", usuário é encaminhado para página Cadastre-se	PASSED	
+Logo ProbaSorte é exibido	PASSED	
+Link para páginas "Sobre", "FAQ" "Termos e condições" é exibido	PASSED	
+Ao clicar em "Sobre", usuário é encaminhado para página "Sobre"	PASSED	
+Ao clicar em "FAQ", usuário é encaminhado para página "FAQ"	PASSED	
+Ao clicar em "Termos e condições", usuário é encaminhado para página "Termos e condições"	PASSED	
+Todos os direitos reservados é exibido	PASSED	
+Logo ProbaSorte, Sobre, FAQ, Todos os direitos reseravados e texto sobre não garantia de resultados é exibido com fundo na cor azul escura	PASSED	
+Texto "Apesar de usarmos dados e estatísticas com histórico e probabilidade de jogos anteriores, este site não garante nenhum resultado com as sugestões aqui geradas. Use por sua conta e risco." é exibido	PASSED	

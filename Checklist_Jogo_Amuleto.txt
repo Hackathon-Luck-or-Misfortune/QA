@@ -1,0 +1,42 @@
+Descrição 	Google Chrome 400x554	Relatório de BUGS
+Página Jogo Amuleto		
+
+
+Header		
+Texto "Qual é seu forte? Estatística ou sorte? é exibido no cabeçalho	PASSED	
+Logo ProbaSorte é exibido no cabeçalho acompanhado de ícone	PASSED	
+Texto "+ Saldo" com quantidades de sorte é exibido	PASSED	
+Avatar com foto é exibido	PASSED	
+Ao clicar no avatar, menu com dados do usuário é exibido	PASSED	
+Ao clicar no avatar, menu com dados do usuário é exibido com: nome, email, botão comprar sorte, botão editar perfil, botão sair 	PASSED	
+Ao clicar no botão "Comprar sorte" usuário é encaminhado para página*******	FAILED	
+Ao clicar no botão "Editar perfil" usuário e encaminhado para página*********	FAILED	
+Ao clicar no botão 'Sair", usuário sai do perfil e é encaminhado para página inicial 	PASSED	
+
+
+Body		
+Texto "Seu histórico:" é exibido 	PASSED	
+Botão "Voltar" é exibido	PASSED	
+Ao clicar em "Voltar", usuário é encaminhado para página dashboard	PASSED	
+Texto com quantidades de amuletos selecionados é exibido	PASSED	
+Campo "Qual o seu amuleto" é exibido com botão "+"	PASSED	
+Ao clicar no botão "+" com campo vazio mensagem "preencha com um amuleto" é exibido	PASSED	
+Ao preencher campo "qual o seu amuleto", palavra é exibida dentro de campo na cor verde, com posição numerada e botão de excluir	PASSED	
+Ao clicar no botão excluir palavra é deletada	PASSED	
+Ao adicionar os 6 amuletos botão comprar jogo é validado 	PASSED	
+Total de sorte é exbido 	PASSED	
+
+
+
+Footer		
+Texto em branco "Uma sequência gratuita por dia, cadastre-se agora." é exibido com um fundo azul 	PASSED	
+Botão "Quero minha sorte" é exibido na cor branca com texto em azul	PASSED	
+Ao clicar em "Quero minha sorte", usuário é encaminhado para página Cadastre-se	PASSED	
+Logo ProbaSorte é exibido	PASSED	
+Link para páginas "Sobre", "FAQ" "Termos e condições" é exibido	PASSED	
+Ao clicar em "Sobre", usuário é encaminhado para página "Sobre"	PASSED	
+Ao clicar em "FAQ", usuário é encaminhado para página "FAQ"	PASSED	
+Ao clicar em "Termos e condições", usuário é encaminhado para página "Termos e condições"	PASSED	
+Todos os direitos reservados é exibido	PASSED	
+Logo ProbaSorte, Sobre, FAQ, Todos os direitos reseravados e texto sobre não garantia de resultados é exibido com fundo na cor azul escura	PASSED	
+Texto "Apesar de usarmos dados e estatísticas com histórico e probabilidade de jogos anteriores, este site não garante nenhum resultado com as sugestões aqui geradas. Use por sua conta e risco." é exibido	PASSED	

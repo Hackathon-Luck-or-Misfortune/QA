@@ -1,0 +1,46 @@
+Descrição 	                                                                                                                                                    Google Chrome 400x554	
+Página HOME		
+Header		
+Texto "Qual é seu forte? Estatística ou sorte? é exibido no cabeçalho	                                                                                           PASSED	
+Texto "Qual é seu forte? Estatística ou sorte? é exibido no cabeçalho dentro de uma faixa branca com fonte na cor azul escuro	                                   PASSED	
+Logo ProbaSorte é exibido no cabeçalho acompanhado de ícone	                                                                                                       PASSED	
+Botão "Entrar" é exibido no cabeçalho	PASSED	
+Botão "Entrar" é exibido na cor branca com fonte em azul	PASSED	
+Background de um fundo azul com globo é exibido	PASSED	
+Título "Sua sorte e estatísticas juntas" é exbido 	PASSED	
+Cor do título "Sua sorte e estatísticas juntas" com fonte em branco	PASSED	
+Subtítulo "Cadastre-se agora e receba agora a sequência que pode te fazer um vencedor" é exibido	PASSED	
+Botão "Quero minha sorte" é exibido 	PASSED	
+Botão "Quero minha sorte" é exbido na cor laranja com fonte branca/acinzentada	PASSED	
+Ao clicar em botão "Entrar", usuário é encaminhado para página de Log In	PASSED	
+Ao clicar no botão "Quero minha sorte", usuário é encaminhado para página de Cadastre-se	PASSED	
+
+Body		
+Título centralizado "Como funciona" é exibido 	PASSED	
+Texto "Para encontrar seus números, siga os passos com atenção, o que você busca está na sua direção." é exibido 	PASSED	
+Ícone central na cor laranja "computador com pessoa dentro" é exibido representando Passo 1	PASSED	
+ "Passo 1" é exibido	PASSED	
+Texto "Faça seu cadastro aqui no ProbaSorte e encontre seus números da sorte" é exibido 	PASSED	
+Ícone central na cor laranja com "trevo de quatro folhas" é exibido representando Passo 2	PASSED	
+Título "Passo 2" é exibido	PASSED	
+Texto "Insira seus amuletos da sorte" é exibido 	PASSED	
+Ícone central na cor laranja " 123" é exibido representando Passo 3	PASSED	
+Título "Passo 3" é exibido 	PASSED	
+Texto "Gere seus números e faça seu jogo na Mega Sena" é exibido	PASSED	
+Título em Azul Escuro " Paixão na sorte" é exbido 	PASSED	
+Texto Paixão na sorte é exbido 	PASSED	
+	PASSED	
+
+
+Footer		
+Texto em branco "Uma sequência gratuita por dia, cadastre-se agora." é exibido com um fundo azul 	PASSED	
+Botão "Quero minha sorte" é exibido na cor branca com texto em azul	PASSED	
+Ao clicar em "Quero minha sorte", usuário é encaminhado para página Cadastre-se	PASSED	
+Logo ProbaSorte é exibido	PASSED	
+Link para páginas "Sobre", "FAQ" "Termos e condições" é exibido	PASSED	
+Ao clicar em "Sobre", usuário é encaminhado para página "Sobre"	PASSED	
+Ao clicar em "FAQ", usuário é encaminhado para página "FAQ"	PASSED	
+Ao clicar em "Termos e condições", usuário é encaminhado para página "Termos e condições"	PASSED	
+Todos os direitos reservados é exibido	PASSED	
+Logo ProbaSorte, Sobre, FAQ, Todos os direitos reseravados e texto sobre não garantia de resultados é exibido com fundo na cor azul escura	PASSED	
+Texto "Apesar de usarmos dados e estatísticas com histórico e probabilidade de jogos anteriores, este site não garante nenhum resultado com as sugestões aqui geradas. Use por sua conta e risco." é exibido	PASSED	

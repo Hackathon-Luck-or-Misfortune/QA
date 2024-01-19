@@ -1,0 +1,43 @@
+Descrição 	Google Chrome 400x554	Relatório de BUGS
+Página LOGIN		
+
+
+Header		
+Texto "Qual é seu forte? Estatística ou sorte? é exibido no cabeçalho	PASSED	
+Logo ProbaSorte é exibido no cabeçalho acompanhado de ícone	PASSED	
+Botão "Cadastre-se" é exibido no cabeçalho	PASSED	
+Botão "Cadastre-se" é exibido na cor azul com fonte branca	PASSED	
+Ao clicar no botão "cadastre-se", usuário e encaminhado para página de cadastro	PASSED	
+
+
+Body		
+Título "Faça seu Login" é exibido com fonte azul escuro	PASSED	
+Texto "Entre e encontre sua sorte hoje" é exibido 	PASSED	
+Campo de E-mail faixa Azul claro com texto em azul escuro é exibido	PASSED	
+Campo de Senha faixa Azul claro com texto em azul escuro é exibido	PASSED	
+Botão para visualizar a senha é exibido 	PASSED	
+Ao não preencher campo email, campo é destacado em vermelho e mensagem de erro aparece	PASSED	
+Ao não preencher campo senha, campo é destacado em vermelho e mensagem de erro aparece	PASSED	
+Ao preencher campo email com dados inválidos, campo é destacado em vermelho e mensagem de erro aparece	PASSED	
+Ao preencher campo senha com dados inválidos, campo é destacado em vermelho e mensagem de erro aparece	PASSED	
+Botão "Entrar" na cor azul escuro com texto em branco é exibido	PASSED	
+Ao clicar no botão "Entrar" usuário é encaminhado para página de dashboard	PASSED	
+Botão "Esqueci minha senha" é exibido acompanhado de emoji "rindo de nervoso"	PASSED	
+Ao clicar no botão "Esqueci minha senha", usuário pe encaminhado para página de recuperação de senha		
+Botão "Entrar com o google" é exibido com ícone Google	PASSED	
+Ao clicar em botão "Entrar com o Google", pop-up de exibição de emails google é exibido	PASSED	
+Texto "Se ainda não tem conta, não deixe por esperar, se aqui você clicar, o seu destino se transformará" é exibido	PASSED	
+Botão "Cadastre-se" é exibido com emojji de de brilho	PASSED	
+
+Footer		
+Texto em branco "Uma sequência gratuita por dia, cadastre-se agora." é exibido com um fundo azul 	PASSED	
+Botão "Quero minha sorte" é exibido na cor branca com texto em azul	PASSED	
+Ao clicar em "Quero minha sorte", usuário é encaminhado para página Cadastre-se	PASSED	
+Logo ProbaSorte é exibido	PASSED	
+Link para páginas "Sobre", "FAQ" "Termos e condições" é exibido	PASSED	
+Ao clicar em "Sobre", usuário é encaminhado para página "Sobre"	PASSED	
+Ao clicar em "FAQ", usuário é encaminhado para página "FAQ"	PASSED	
+Ao clicar em "Termos e condições", usuário é encaminhado para página "Termos e condições"	PASSED	
+Todos os direitos reservados é exibido	PASSED	
+Logo ProbaSorte, Sobre, FAQ, Todos os direitos reseravados e texto sobre não garantia de resultados é exibido com fundo na cor azul escura	PASSED	
+Texto "Apesar de usarmos dados e estatísticas com histórico e probabilidade de jogos anteriores, este site não garante nenhum resultado com as sugestões aqui geradas. Use por sua conta e risco." é exibido	PASSED	

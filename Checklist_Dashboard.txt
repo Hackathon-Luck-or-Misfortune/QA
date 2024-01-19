@@ -1,0 +1,43 @@
+Descrição 	Google Chrome 400x554	Relatório de BUGS
+
+
+Página DASHBOARD		
+Header		
+Texto "Qual é seu forte? Estatística ou sorte? é exibido no cabeçalho	PASSED	
+Logo ProbaSorte é exibido no cabeçalho acompanhado de ícone	PASSED	
+Texto "+ Saldo" com quantidades de sorte é exibido	PASSED	
+Avatar com foto é exibido	PASSED	
+Ao clicar no avatar, menu dados do usuário é exibido	PASSED	
+Ao clicar no avatar, menuc om dados do usuário é exibido com: nome, email, botão comprar sorte, botão editar perfil, botão sair 	PASSED	
+Ao clicar no botão "Comprar sorte" usuário é encaminhado para página*******	FAILED	
+Ao clicar no botão "Editar perfil" usuário e encaminhado para página*********	FAILED	
+Ao clicar no botão 'Sair", usuário sai do perfil e é encaminhado para página inicial 	PASSED	
+
+
+Body		
+Texto "Seu histórico:" em azul escuro é exibido	PASSED	
+Botão "+ Gerar sorte" é exbido	PASSED	
+Ao clicar no botão "+ Gerar sorte", janela com "Com amuletos" e "Com estatísticas" é exibido	PASSED	
+Ao clicar no botão "Com amuletos", usuário é encaminhado para página de jogo amuleto	PASSED	
+Ao clicar no botão "Com estatísticas" usuário é encaminhado para página modal de jogo estatística 	PASSED	
+Campo "Ainda não tem histórico" é exibido com fundo cinza e fonte em azul 	PASSED	
+Ao gerar números, são exibidos dentro de um campo com números gerados em jogos passados, os números estão dentro de bolinhas na cor azul escura e fontes na cor branca	PASSED	
+Ao gerar sequência de números com amuletos campo de histórico de sequência de números é exibido com botão de "Detalhes"	PASSED	
+Ao clicar Detalhes, histórico de palavras é exibido	PASSED	
+Data que o jogo foi feita é exibida	PASSED	
+Ícone de jogo gerado através de estatísticas é exbido	PASSED	
+
+
+
+Footer		
+Texto em branco "Uma sequência gratuita por dia, cadastre-se agora." é exibido com um fundo azul 	PASSED	
+Botão "Quero minha sorte" é exibido na cor branca com texto em azul	PASSED	
+Ao clicar em "Quero minha sorte", usuário é encaminhado para página Cadastre-se	PASSED	
+Logo ProbaSorte é exibido	PASSED	
+Link para páginas "Sobre", "FAQ" "Termos e condições" é exibido	PASSED	
+Ao clicar em "Sobre", usuário é encaminhado para página "Sobre"	PASSED	
+Ao clicar em "FAQ", usuário é encaminhado para página "FAQ"	PASSED	
+Ao clicar em "Termos e condições", usuário é encaminhado para página "Termos e condições"	PASSED	
+Todos os direitos reservados é exibido	PASSED	
+Logo ProbaSorte, Sobre, FAQ, Todos os direitos reseravados e texto sobre não garantia de resultados é exibido com fundo na cor azul escura	PASSED	
+Texto "Apesar de usarmos dados e estatísticas com histórico e probabilidade de jogos anteriores, este site não garante nenhum resultado com as sugestões aqui geradas. Use por sua conta e risco." é exibido	PASSED	
