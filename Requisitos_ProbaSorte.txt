@@ -1,0 +1,47 @@
+Ao clicar na logo ProbaSorte, usuário volta para página inicial?
+Ao clicar na logo ProbaSorte no rodapé da página, usuário também é encaminhado para página inicial? 
+Ao clicar em entrar, usuário é encaminhado para página LogIn?
+Ao clicar em Quero minha sorte, usuário é encaminhado para página de Cadastre-se?
+
+o que acontece ao clicar no botão esqueci minha senha?
+o que acontece ao clicar no botão comprar sorte?
+o que acontece ao clicar no botão editar perfil?
+
+Página LogIn: Limite de caracteres permitidos nos campos:
+- E-mail:
+-Senha:
+Qual a quantidade de caracteres mínima permitida para campo e-mail?
+Qual a quantidade de caracteres mínima permitida para campo senha? 
+Informe os caracteres especiais permitidos para campo e-mail:
+Informe se números são permitidos para campo e-mail:
+Informe os caracteres especiais permitidos para campo senha:
+Informe se números são permitidos para campo senha:
+
+Página Cadastre-se: Limite de caracteres permitidos nos campos:
+- Nome:
+- E-mail:
+- Senha:
+Campos estado/cidade abrirá janela de opção? Caso não, qual o limite de caracteres para os campos: 
+- Estado:
+- Cidade: 
+Qual a quantidade de caracteres mínima permitida para campo nome?
+Qual a quantidade de caracteres mínima permitida para campo e-mail?
+Qual a quantidade de caracteres mínima permitida para campo senha? 
+Informe os caracteres especiais permitidos para campo nome:
+Informe se números são permitidos para campo nome:
+
+Ao clicar em criar conta, usuário é encaminhado para qual página? 
+
+Página Jogo amuleto: 
+Limite de caracteres permitidos para campo qual seu amuleto:
+Limite mínimo de caracteres permitido para o mesmo:
+Caracteres especiais são permitidos nesse campo? 
+Números são permitidos nesse campo?
+Ao preencher campo qual seu amuleto com dados válidos e enviar, campo fica em branco para ser preenchido novamente? 
+
+Ao preencher campos email, senha, nome, estado e cidade com dados inválidos campos são destacados em vermelho e mensagem de erro aparece? Se sim, descreva a mensagem de erro:
+Ao deixar campos email, senha, nome, estado e cidade em branco são destacados em vermelho e mensagem de erro aparece? Se sim, descreva a mensagem de erro:
+Ao preencher o campo qual o seu amuleto com dados inválidos é destacado em vermelho e mensagem de erro aparece? Se sim, descreva a mensagem de erro:
+Ao deixar o campo qual o seu amuleto em branco é destacado em vermelho e mensagem de erro aparece? Se sim, descreva a mensagem de erro:
+
+
